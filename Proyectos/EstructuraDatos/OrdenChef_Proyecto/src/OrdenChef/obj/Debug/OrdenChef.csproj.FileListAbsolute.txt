@@ -1,0 +1,13 @@
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\bin\Debug\OrdenChef.exe.config
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\bin\Debug\OrdenChef.exe
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\bin\Debug\OrdenChef.pdb
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.csproj.AssemblyReference.cache
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.Form1.resources
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.Properties.Resources.resources
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.csproj.GenerateResource.cache
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.csproj.CoreCompileInputs.cache
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.exe
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.pdb
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.exe.config
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.Form2.resources
+C:\Proyectos\EstructuraDatos\OrdenChef_Proyecto\src\OrdenChef\obj\Debug\OrdenChef.Form3.resources

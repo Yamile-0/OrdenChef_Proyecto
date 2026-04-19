@@ -1,0 +1,15 @@
+Nombre: Daniela Yamile García Islas
+Matrícula: 333006064
+Email: Daniela.garciaI33@my.unitec.edu.mx
+Rol: Líder / Programador
+
+
+Nombre: Gustavo Hernandez León
+Matricula: 333004496
+Email: gustavo.hernandezL33@my.unitec.edu.mx
+Rol: Análisita / diseñador
+
+
+Cámara trejo Luis Armando 
+333003897
+Luis.camara33@my.UNITEC.edu.mx
